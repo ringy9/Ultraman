@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "9bfd863e9abed5ea",
+            "max_int": "f1b1e2b2bc9a164c",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Ultraman",
+            "photo": "https://i.postimg.cc/JzvZLLg0/f5ea88db9e53e07891ca13a42108dd61.jpg",
+            "voice": "https://ringy9.github.io/Ultraman/conversion.mp3",
+            "video": "https://ringy9.github.io/Ultraman/v2021.mp4",
+            "stories": [
+              "https://i.postimg.cc/L5xg0KLH/1231579.jpg",
+"https://i.postimg.cc/0jkJf26W/1231591.jpg",
+"https://i.postimg.cc/gjm3TH7K/3d816616c5fe98079508588be949217f.jpg",
+"https://i.postimg.cc/44Q6hjK2/43daa5f314b7a6b9c9633c06c5bb408f.jpg",
+"https://i.postimg.cc/kGsW3t3P/6b40886e716df41fcbbe0c95f7034688.jpg",
+"https://i.postimg.cc/vHP509tW/77b5a57ee6699f7672563b881dfb8d72-kaiju-zero.jpg",
+"https://i.postimg.cc/xTjKGgMf/a2ead139ba325ab6c6234df7c3173aa4-1.jpg",
+"https://i.postimg.cc/HkVXRx6F/afee3834d2a27182266506d985d832b2.jpg",
+"https://i.postimg.cc/gcsh0R5f/dehv7nk-e6a18f44-caed-4591-90ce-9a38f8817d58.jpg",
+"https://i.postimg.cc/hGmx4YWr/e0a9f875ee0b9190125a866ba28c2044.jpg",
+"https://i.postimg.cc/JzvZLLg0/f5ea88db9e53e07891ca13a42108dd61.jpg",
+"https://i.postimg.cc/vBdn4vGd/f9f601674563d6d634cf827767c87828.jpg",
+"https://i.postimg.cc/zBSgKRfH/screen-0.webp"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/L5xg0KLH/1231579.jpg",
+"https://i.postimg.cc/0jkJf26W/1231591.jpg",
+"https://i.postimg.cc/gjm3TH7K/3d816616c5fe98079508588be949217f.jpg",
+"https://i.postimg.cc/44Q6hjK2/43daa5f314b7a6b9c9633c06c5bb408f.jpg",
+"https://i.postimg.cc/kGsW3t3P/6b40886e716df41fcbbe0c95f7034688.jpg",
+"https://i.postimg.cc/vHP509tW/77b5a57ee6699f7672563b881dfb8d72-kaiju-zero.jpg",
+"https://i.postimg.cc/xTjKGgMf/a2ead139ba325ab6c6234df7c3173aa4-1.jpg",
+"https://i.postimg.cc/HkVXRx6F/afee3834d2a27182266506d985d832b2.jpg",
+"https://i.postimg.cc/gcsh0R5f/dehv7nk-e6a18f44-caed-4591-90ce-9a38f8817d58.jpg",
+"https://i.postimg.cc/hGmx4YWr/e0a9f875ee0b9190125a866ba28c2044.jpg",
+"https://i.postimg.cc/JzvZLLg0/f5ea88db9e53e07891ca13a42108dd61.jpg",
+"https://i.postimg.cc/vBdn4vGd/f9f601674563d6d634cf827767c87828.jpg",
+"https://i.postimg.cc/zBSgKRfH/screen-0.webp"
+            ]
+          
+        }
+    ]
+}
